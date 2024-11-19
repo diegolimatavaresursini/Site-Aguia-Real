@@ -1,0 +1,23 @@
+
+#depoimentos {
+    width: 100%;
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+
+#depoimentos h1{
+    font-size: 40px;
+}
+
+#depoimentos img{
+    height: 500px;
+    border-radius: 4%;
+    padding-top: 10px;
+    -webkit-border-radius: 4%;
+    -moz-border-radius: 4%;
+    -ms-border-radius: 4%;
+    -o-border-radius: 4%;
+    opacity: 80%;
+}
+

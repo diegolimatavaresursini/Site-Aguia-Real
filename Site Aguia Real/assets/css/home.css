@@ -1,0 +1,38 @@
+/* .home {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    left: 35%;
+    right: 20%;
+}
+
+.home img {
+    width: 350px;
+   
+}
+
+.home h1 {
+    font-size: 36px;
+    display: flex;
+    top: 40% ;
+} */
+
+.home {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15%;
+}
+
+.home img {
+    width: 350px;
+    padding-top: 20%;
+}
+   
+
+.home h1 {
+    font-size: 36px;
+    padding-top: 5%;
